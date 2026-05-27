@@ -1,17 +1,3 @@
-Ja — dafür eignet sich eine kombinierte Lösung aus:
-
-1. **VS-Code Extensions**
-2. **Keymap-Import aus PHPStorm**
-3. **settings.json Anpassungen**
-4. **JetBrains-ähnliches UI/Verhalten**
-5. Optional: ein kleines Script zum automatischen Setup
-
-Da du bereits einen **PHPStorm Keymap-Export** hast, ist die beste Lösung tatsächlich eine ausführliche `INSTRUCTION.md` + optionales Setup-Script.
-
-Hier ist eine professionelle Vorlage, die du direkt verwenden kannst:
-
----
-
 # INSTRUCTION.md — VS Code wie PHPStorm konfigurieren
 
 ## Ziel
@@ -346,17 +332,5 @@ Falls du zusätzlich AI-Features möchtest:
 [Cursor IDE](https://cursor.com/?utm_source=chatgpt.com)
 
 Cursor basiert auf VS Code und fühlt sich oft näher an JetBrains an.
-
----
-
-Wenn du möchtest, kann ich dir zusätzlich noch:
-
-* eine komplette fertige `settings.json`
-* eine fertige `keybindings.json`
-* ein Auto-Import-Script für deinen PHPStorm Export
-* eine perfekte Laravel-Konfiguration
-* eine Symfony-Konfiguration
-* ein komplettes Dev-Container Setup
-* ein „VSCode Ultimate PHPStorm Clone“-Paket
 
 erstellen.
