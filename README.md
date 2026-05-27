@@ -1,5 +1,3 @@
-# INSTRUCTION.md — VS Code wie PHPStorm konfigurieren
-
 ## Ziel
 
 VS Code soll sich möglichst wie PHPStorm verhalten (ca. 95–99%).
